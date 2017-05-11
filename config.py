@@ -1,4 +1,4 @@
-username = "tvoj_username"
-password = "tvoja_sifra"
-client_id = "qiphgx47CtShBQ"
-client_secret = "aI4S2TfjcoHjVS7hoyyxzrOeeZw"
+username = "boty-boop"
+password = "alukobond93"
+client_id = "4klZH4KZ0rlujQ"
+client_secret = "gtwd2PxWANmBInX9T5IpgGNlUYU"
